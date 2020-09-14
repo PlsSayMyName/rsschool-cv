@@ -1,0 +1,19 @@
+body {
+	margin: 0 auto;
+	max-width: 1024px;
+	text-align: center;
+}
+
+.my-photo { border-radius: 100%; }
+
+.my-skills-list {
+	padding: 0;
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: #38a6db;
+}
+
+.red-text { color: #fe0000; }
